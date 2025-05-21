@@ -1,4 +1,5 @@
 a='abcd'
 b='def'
 c=4
-print(f'my name is {a} and my friend is {b}. he is {c} years old')
+d='nafee'
+print(f'my name is {a} and my friend is {b}. he is {c} years old. dara {d}re pidaitasi')

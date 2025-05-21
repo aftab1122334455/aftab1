@@ -4,4 +4,6 @@ f=10
 g=233233
 h=5245355432
 i='last'
-print(f'my name is  and my friend is . he is  years old. dara {d}re pidaitasi. {e},{f},{g}, {h}, {i}')
+j=656456
+k=15
+print(f'my name is  and my friend is{j}, {k}. he is  years old. dara {d}re pidaitasi. {e},{f},{g}, {h}, {i}')

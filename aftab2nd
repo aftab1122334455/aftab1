@@ -1,0 +1,3 @@
+a='abcd'
+b='def'
+print(f'my name is {a} and my friend is {b}')
